@@ -1,0 +1,33 @@
+[
+  {
+    "patient_id": "patient_1",
+    "clinical_summary": "5-year-old patient with persistent fever and cough. No known allergies. Family history of asthma.",
+    "correct_specialist": "Pediatrician",
+    "correct_specialist_id": "spec_ped_001"
+  },
+  {
+    "patient_id": "patient_2",
+    "clinical_summary": "12-year-old with chest pain during physical activity. History of heart murmur.",
+    "correct_specialist": "Pediatric Cardiologist",
+    "correct_specialist_id": "spec_card_001"
+  },
+  {
+    "patient_id": "patient_3",
+    "clinical_summary": "8-year-old with difficulty breathing and wheezing. Known asthma diagnosis.",
+    "correct_specialist": "Pediatric Pulmonologist",
+    "correct_specialist_id": "spec_pulm_001"
+  },
+  {
+    "patient_id": "patient_4",
+    "clinical_summary": "15-year-old with severe headache and vision changes. No previous history.",
+    "correct_specialist": "Pediatric Neurologist",
+    "correct_specialist_id": "spec_neuro_001"
+  },
+  {
+    "patient_id": "patient_5",
+    "clinical_summary": "3-year-old with persistent rash and itching. Suspected allergic reaction.",
+    "correct_specialist": "Pediatric Allergist",
+    "correct_specialist_id": "spec_allerg_001"
+  }
+]
+
